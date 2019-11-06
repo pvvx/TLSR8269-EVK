@@ -1,0 +1,2 @@
+# TLSR8269-EVK
+Telink EVK on the ET104-BT10 module (TLSR8269).
